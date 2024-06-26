@@ -12,7 +12,6 @@ public class Main {
 
         List<ITask> completedTasks = new ArrayList();
 
-
         while (true)
         {
             Scanner scanner = new Scanner(System.in);
