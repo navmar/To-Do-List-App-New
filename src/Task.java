@@ -12,6 +12,7 @@ public class Task implements ITask
     private LocalDate dateAdded;
     private LocalDate dateDue;
 
+    //boolean completed
     public Task(String descriptionP, String dateDueP)
     {
         description = descriptionP;
